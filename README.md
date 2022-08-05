@@ -7,8 +7,8 @@ My projects list for this course:
 | Project Title  | Details |
 | ------------- | ------------- |
 | BFS and DFS Traversal on Graph  | C++/Stack  |
-| FIFO Queue  | Array/LinkedList  |
-| Bookshop Store | Linked List |
+| Tridiagonal Sparse Matrix  | Matrices/C++  |
+| Newton-Raphson Algorithm | Numerical Analysis/python2 |
 | Infix, Postfix, and Prefix Conversion | Stack |
 | English to Persian Dictionary | Trie Tree |
 | Inorder, Preorder, and Postorder Traversal | Binary Tree| 
