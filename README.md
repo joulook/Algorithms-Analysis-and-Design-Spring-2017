@@ -10,5 +10,5 @@ My projects list for this course:
 | Tridiagonal Sparse Matrix  | Matrices/C++  |
 | Newton-Raphson Algorithm | Numerical Analysis/python2 |
 | Strassen Matrix Multiplication | Matrices/Java |
-| English to Persian Dictionary | Trie Tree |
+| Red–Black Tree Traversal | Java |
 | Inorder, Preorder, and Postorder Traversal | Binary Tree| 
