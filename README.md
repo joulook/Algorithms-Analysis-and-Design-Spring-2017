@@ -9,6 +9,6 @@ My projects list for this course:
 | BFS and DFS Traversal on Graph  | C++/Stack  |
 | Tridiagonal Sparse Matrix  | Matrices/C++  |
 | Newton-Raphson Algorithm | Numerical Analysis/python2 |
-| Infix, Postfix, and Prefix Conversion | Stack |
+| Strassen Matrix Multiplication | Matrices/Java |
 | English to Persian Dictionary | Trie Tree |
 | Inorder, Preorder, and Postorder Traversal | Binary Tree| 
