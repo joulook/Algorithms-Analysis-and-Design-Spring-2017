@@ -1,0 +1,14 @@
+c:\users\np\documents\visual studio 2017\Projects\Huffman\Huffman\bin\Debug\Huffman.exe.config
+c:\users\np\documents\visual studio 2017\Projects\Huffman\Huffman\bin\Debug\Huffman.exe
+c:\users\np\documents\visual studio 2017\Projects\Huffman\Huffman\bin\Debug\Huffman.pdb
+c:\users\np\documents\visual studio 2017\Projects\Huffman\Huffman\obj\Debug\Huffman.csprojResolveAssemblyReference.cache
+c:\users\np\documents\visual studio 2017\Projects\Huffman\Huffman\obj\Debug\MainWindow.g.cs
+c:\users\np\documents\visual studio 2017\Projects\Huffman\Huffman\obj\Debug\App.g.cs
+c:\users\np\documents\visual studio 2017\Projects\Huffman\Huffman\obj\Debug\Huffman_MarkupCompile.cache
+c:\users\np\documents\visual studio 2017\Projects\Huffman\Huffman\obj\Debug\Huffman_MarkupCompile.lref
+c:\users\np\documents\visual studio 2017\Projects\Huffman\Huffman\obj\Debug\MainWindow.baml
+c:\users\np\documents\visual studio 2017\Projects\Huffman\Huffman\obj\Debug\Huffman.g.resources
+c:\users\np\documents\visual studio 2017\Projects\Huffman\Huffman\obj\Debug\Huffman.Properties.Resources.resources
+c:\users\np\documents\visual studio 2017\Projects\Huffman\Huffman\obj\Debug\Huffman.csproj.GenerateResource.Cache
+c:\users\np\documents\visual studio 2017\Projects\Huffman\Huffman\obj\Debug\Huffman.exe
+c:\users\np\documents\visual studio 2017\Projects\Huffman\Huffman\obj\Debug\Huffman.pdb
