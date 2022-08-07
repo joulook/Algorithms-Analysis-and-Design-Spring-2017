@@ -6,7 +6,7 @@ My projects list for this course:
 
 | Project Title  | Details |
 | ------------- | ------------- |
-| BFS and DFS Traversal on Graph  | C++/Stack  |
+| BFS and DFS Traversal and MST on Weighted Graph  | C++/Stack  |
 | Tridiagonal Sparse Matrix  | Matrices/C++  |
 | Newton-Raphson Algorithm | Numerical Analysis/python2 |
 | Strassen Matrix Multiplication | Matrices/Java |
