@@ -13,17 +13,17 @@ My final project was in the "Algorithms Analysis and Design" course when I was i
 * used merge sort algorithm for sorting all simple paths between two nodes
 
 ## find shortes path with Dijkstra Algorithm output
-| <img src="02.png" alt="Pascal Triangle" width="700"/> | 
+| <img src="A.png" alt="Pascal Triangle" width="700"/> | 
 |:--:| 
 | *part A*
 
 ## find shortes path with Dijkstra Algorithm output
-| <img src="03.png" alt="Pascal Triangle" width="500"/> | 
+| <img src="B.png" alt="Pascal Triangle" width="500"/> | 
 |:--:| 
 | *part B*
 
 ## find All Path between two cities
-| <img src="05.png" alt="Pascal Triangle" width="500"/> | 
+| <img src="C.png" alt="Pascal Triangle" width="500"/> | 
 |:--:| 
 | *output*
 
