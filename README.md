@@ -11,4 +11,5 @@ My projects list for this course:
 | Newton-Raphson Algorithm | Numerical Analysis/python2 |
 | Strassen Matrix Multiplication | Matrices/Java |
 | Red–Black Tree Traversal | Java |
-| Inorder, Preorder, and Postorder Traversal | Binary Tree| 
+| Inorder, Preorder, and Postorder Traversal | Binary Tree|
+| Routing in Non-Negative Weighted Directed and Undirected Graphs | Priority Queue/MinHeap/Stack/MergeSort/Dijkstra Shortest Path |
