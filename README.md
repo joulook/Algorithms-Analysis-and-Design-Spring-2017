@@ -12,4 +12,4 @@ My projects list for this course:
 | Strassen Matrix Multiplication | Matrices/Java |
 | Red–Black Tree Traversal | Java |
 | Inorder, Preorder, and Postorder Traversal | Binary Tree|
-| Routing in Non-Negative Weighted Directed and Undirected Graphs | Priority Queue/MinHeap/Stack/MergeSort/Dijkstra Shortest Path |
+| Routing in Non-Negative Weighted Directed and Undirected Graphs | Priority Queue/Min Heap/Stack/Merge Sort/Dijkstra Shortest Path |
